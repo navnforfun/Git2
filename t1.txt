@@ -1,1 +1,3 @@
 hello, i will start learning git on this project
+this is my version control
+v1
